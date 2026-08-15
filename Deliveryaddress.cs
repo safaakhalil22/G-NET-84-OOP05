@@ -9,20 +9,20 @@ namespace G_NET_84_OOP05
     public class DeliveryAddress
     {
         #region DeliveryAddress
-        public string City;
-        public string Street;
+        //public string City;
+        //public string Street;
 
-        public DeliveryAddress(string city, string street)
-        {
-            City = city;
-            Street = street;
-        }
+        //public DeliveryAddress(string city, string street)
+        //{
+        //    City = city;
+        //    Street = street;
+        //}
 
-        public DeliveryAddress()
-        {
-            City = "";
-            Street = "";
-        }
+        //public DeliveryAddress()
+        //{
+        //    City = "";
+        //    Street = "";
+        //}
         #endregion
     }
 }
